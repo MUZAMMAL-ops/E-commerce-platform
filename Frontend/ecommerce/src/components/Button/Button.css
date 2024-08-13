@@ -1,0 +1,17 @@
+
+.btncontain{
+    margin-top: 10px;
+    display: flex;
+
+}
+
+.btn2{
+    margin-top: 200px;
+    background-color: rgb(17, 152, 58);
+    margin-right: 70px;
+}
+
+.btn1{
+    margin-top: 200px;
+    background-color: rgb(26, 103, 49);
+}

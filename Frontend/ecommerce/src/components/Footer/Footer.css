@@ -1,0 +1,16 @@
+.Footer {
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    position: fixed;
+    /* align-items: end; */
+    bottom: 0;
+    
+    z-index: 100;
+
+}
+  

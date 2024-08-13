@@ -1,0 +1,21 @@
+.message{
+    margin-top: 100px;
+    margin-left: 550px;
+    
+}
+.message-image{
+    margin-left: 545px;
+}
+.message-btn{
+    margin-left: 550px;
+    
+}
+.message-btn1{
+    width: 275px;
+    margin-top: 5px;
+
+}
+p{
+    color: black;
+    font-size: small;
+}

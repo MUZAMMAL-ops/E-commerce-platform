@@ -1,0 +1,50 @@
+.details{
+    border: 1px solid black;
+    width: 700px;
+    height: 540px;
+    margin-top: 80px;
+    margin-left: 27%;
+    display: flex;
+    border-radius: 15px;
+    background-color: rgb(108, 186, 220);
+}
+.intdiv{
+    border: 1px solid black;
+    width: 300px; /* Set the width for each individual card */
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+    flex-shrink: 0;
+}
+.btnclass{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.button1{
+    background-color: red;
+}
+.button2{
+    background-color: rgb(94, 112, 231);
+}
+.button2:hover{
+    background-color: cadetblue;
+}
+.Name{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size:larger;
+
+}
+.paragraph{
+    margin-left: 10px;
+}
+.pri{
+    display: flex;
+    justify-content: space-around;
+    color: brown;
+    font-size: large;
+}
+.svg{
+    color: brown;
+}

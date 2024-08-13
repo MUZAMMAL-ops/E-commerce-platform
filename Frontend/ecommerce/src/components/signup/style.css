@@ -1,0 +1,70 @@
+/* .parent {
+    border: 1px solid black;
+    align-self: center;
+    width: 450px;
+    height: 5300px;
+    background-color: cadetblue;
+    margin-left: 33%;
+    margin-top: 0%;
+    border-radius: 10px;
+    
+} */
+.parent{
+    border: 1px solid black;
+    width: 450px;
+    height: 500px;
+    background-color: cadetblue;   
+    border-radius: 10px;
+    top: 40px;
+    position: relative;
+    z-index: 99;
+}
+.Email{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center;
+
+}
+input{
+    width: 270px;
+    height: 35px;
+    border-radius: 10px;
+}
+.btnparent {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    background-color: rgb(178, 94, 25);
+    border-radius: 10px;
+
+
+}
+
+.Address {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items:center;
+    margin-left: 0.5%;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+li{
+    display: flex;
+    justify-content: center;
+    color: red;
+    position: relative;
+    top: 28px;
+    
+}

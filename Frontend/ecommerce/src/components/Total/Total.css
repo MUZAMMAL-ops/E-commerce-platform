@@ -1,0 +1,28 @@
+.total{
+    border: 1px solid black;
+    width: 200px;
+    height: 120px;
+    background-color:rgb(135, 150, 63);
+    margin-left: 1100px;
+    margin-top: 0px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 4 4px 8px rgba(226, 49, 49, 0.2);
+
+}
+.proceed{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 130px;
+    margin-top: 10px;
+}
+.btnproceed{
+    background-color: crimson;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    
+    
+}

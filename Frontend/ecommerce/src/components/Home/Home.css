@@ -1,0 +1,48 @@
+
+ .container {
+    border: 1px solid black;
+    width: 300px; /* Set the width for each individual card */
+    height: 500px;
+    margin-left: 85px;
+    margin-top: 100px;
+    border: none; 
+}
+.map1{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-right: 35px; */
+    justify-content: space-around;
+    padding-right: 40px;
+}
+ 
+
+
+.flex{
+    border: 1px solid black;
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top: 200;
+}
+.price{
+    color: brown;
+    text-decoration: none;
+}
+.price1{
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    opacity: 85%;
+    height: 100%;
+}
+.li3{
+    margin-top: 300px;
+    color: red;
+    text-decoration: none;
+}
+.shirt{
+text-decoration: none;
+}
